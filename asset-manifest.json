@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tinder-cl/static/css/main.1b748c19.css",
+    "main.js": "/tinder-cl/static/js/main.8271a6ea.js",
+    "index.html": "/tinder-cl/index.html",
+    "main.1b748c19.css.map": "/tinder-cl/static/css/main.1b748c19.css.map",
+    "main.8271a6ea.js.map": "/tinder-cl/static/js/main.8271a6ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b748c19.css",
+    "static/js/main.8271a6ea.js"
+  ]
+}
